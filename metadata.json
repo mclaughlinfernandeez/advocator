@@ -1,0 +1,6 @@
+{
+  "name": "Disability Advocate",
+  "description": "Integrated platform for disability rights, validated screeners, 504 plan building, and legal case evidence integration with AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
